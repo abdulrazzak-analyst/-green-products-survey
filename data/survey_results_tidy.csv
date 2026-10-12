@@ -1,0 +1,100 @@
+table_no,questionnaire_q,section,question,option,respondents,percent
+T4.1,2,Demographics,Gender,Male,50,50
+T4.1,2,Demographics,Gender,Female,50,50
+T4.2,3,Demographics,Age group,Below 20 years,52,52
+T4.2,3,Demographics,Age group,21-30 years,29,29
+T4.2,3,Demographics,Age group,31-40 years,12,12
+T4.2,3,Demographics,Age group,Above 40 years,7,7
+T4.3,4,Demographics,Educational qualification,School,12,12
+T4.3,4,Demographics,Educational qualification,Undergraduate,50,50
+T4.3,4,Demographics,Educational qualification,Postgraduate,25,25
+T4.3,4,Demographics,Educational qualification,Diploma,4,4
+T4.3,4,Demographics,Educational qualification,Professional course,9,9
+T4.4,5,Demographics,Marital status,Married,38,38
+T4.4,5,Demographics,Marital status,Unmarried,62,62
+T4.5,6,Demographics,Occupation,Self employed,14,14
+T4.5,6,Demographics,Occupation,Salaried,15,15
+T4.5,6,Demographics,Occupation,Professionals,12,12
+T4.5,6,Demographics,Occupation,Homemaker,9,9
+T4.5,6,Demographics,Occupation,Students,50,50
+T4.6,7,Demographics,Area of residence,Urban areas,45,45
+T4.6,7,Demographics,Area of residence,Semi urban areas,23,23
+T4.6,7,Demographics,Area of residence,Rural areas,32,32
+T4.7,8,Demographics,Monthly income,"Upto ₹20,000",39,39
+T4.7,8,Demographics,Monthly income,"₹20,001-₹30,000",16,16
+T4.7,8,Demographics,Monthly income,"₹30,001-₹40,000",20,20
+T4.7,8,Demographics,Monthly income,"Above ₹40,000",25,25
+T4.8,9,Awareness,How respondents came to know about green products,Newspaper,12,12
+T4.8,9,Awareness,How respondents came to know about green products,Television,18,18
+T4.8,9,Awareness,How respondents came to know about green products,Friends,36,36
+T4.8,9,Awareness,How respondents came to know about green products,Social media,27,27
+T4.8,9,Awareness,How respondents came to know about green products,Relatives,7,7
+T4.9,10,Usage behaviour,Product used before green products,Artificial products,25,25
+T4.9,10,Usage behaviour,Product used before green products,Chemical products,18,18
+T4.9,10,Usage behaviour,Product used before green products,Organic products,47,47
+T4.9,10,Usage behaviour,Product used before green products,Plastic products,10,10
+T4.10,11,Usage behaviour,Reason for choosing green products,Eco friendly,45,45
+T4.10,11,Usage behaviour,Reason for choosing green products,Chemical free,23,23
+T4.10,11,Usage behaviour,Reason for choosing green products,Low cost,19,19
+T4.10,11,Usage behaviour,Reason for choosing green products,Reusable,13,13
+T4.11,12,Usage behaviour,Amount spent on green products,Below ₹500,23,23
+T4.11,12,Usage behaviour,Amount spent on green products,"Below ₹1,000",34,34
+T4.11,12,Usage behaviour,Amount spent on green products,"Below ₹1,500",23,23
+T4.11,12,Usage behaviour,Amount spent on green products,"Below ₹2,000",10,10
+T4.12,13,Usage behaviour,How often green products are purchased,Daily,9,9
+T4.12,13,Usage behaviour,How often green products are purchased,Weekly,34,34
+T4.12,13,Usage behaviour,How often green products are purchased,Monthly,24,24
+T4.12,13,Usage behaviour,How often green products are purchased,Based on its requirements,33,33
+T4.13,14,Usage behaviour,Frequency of using green products,Very frequently,17,17
+T4.13,14,Usage behaviour,Frequency of using green products,Frequently,39,39
+T4.13,14,Usage behaviour,Frequency of using green products,Occasionally,26,26
+T4.13,14,Usage behaviour,Frequency of using green products,Very rarely,13,13
+T4.13,14,Usage behaviour,Frequency of using green products,Never,5,5
+T4.14,15,Usage behaviour,Green product used most frequently,Solar speakers,15,15
+T4.14,15,Usage behaviour,Green product used most frequently,Solar water heaters,24,24
+T4.14,15,Usage behaviour,Green product used most frequently,LED lights,38,38
+T4.14,15,Usage behaviour,Green product used most frequently,Others,23,23
+T4.15,16,Usage behaviour,Reason for purchasing green products,Maintaining good health,32,32
+T4.15,16,Usage behaviour,Reason for purchasing green products,Prefer taste/ feelings,23,23
+T4.15,16,Usage behaviour,Reason for purchasing green products,Quality of the products,37,37
+T4.15,16,Usage behaviour,Reason for purchasing green products,Low price,8,8
+T4.16,17,Usage behaviour,Place of purchase,Departmental stores,35,35
+T4.16,17,Usage behaviour,Place of purchase,Whole sales,42,42
+T4.16,17,Usage behaviour,Place of purchase,Through online,23,23
+T4.17,18,Usage behaviour,Green product currently used,Reusable water bottles,18,18
+T4.17,18,Usage behaviour,Green product currently used,Wooden utensils,24,24
+T4.17,18,Usage behaviour,Green product currently used,Bamboo tooth brush,25,25
+T4.17,18,Usage behaviour,Green product currently used,Huskee cups,11,11
+T4.17,18,Usage behaviour,Green product currently used,Jute bags,8,8
+T4.17,18,Usage behaviour,Green product currently used,All of them,14,14
+T4.18,19,Barriers,Reason for not purchasing green products,Too expensive,22,22
+T4.18,19,Barriers,Reason for not purchasing green products,Not enough choice,29,29
+T4.18,19,Barriers,Reason for not purchasing green products,Not available regularly,39,39
+T4.18,19,Barriers,Reason for not purchasing green products,Don’t like purchasing others,10,10
+T4.19,20,Usage behaviour,Most popular green product category,Cleaning suppliers,18,18
+T4.19,20,Usage behaviour,Most popular green product category,Personal care products,33,33
+T4.19,20,Usage behaviour,Most popular green product category,Food and beverages,39,39
+T4.19,20,Usage behaviour,Most popular green product category,Household appliances,10,10
+T4.20,21,Attitude,Experienced benefits from green products,Yes,51,51
+T4.20,21,Attitude,Experienced benefits from green products,No,28,28
+T4.20,21,Attitude,Experienced benefits from green products,Not Sure,21,21
+T4.21,22,Awareness,Aware of environmental impact of products,Yes,77,77
+T4.21,22,Awareness,Aware of environmental impact of products,No,23,23
+T4.22,23,Attitude,Believes information on product package,Yes,72,72
+T4.22,23,Attitude,Believes information on product package,No,28,28
+T4.23,24,Awareness,Can differentiate between green products,Aware,35,35
+T4.23,24,Awareness,Can differentiate between green products,Moderately aware,52,52
+T4.23,24,Awareness,Can differentiate between green products,Unaware,13,13
+T4.24,26,Attitude,Purchase behaviour towards green products (agreement scale),Strongly agree,26,26
+T4.24,26,Attitude,Purchase behaviour towards green products (agreement scale),Agree,51,51
+T4.24,26,Attitude,Purchase behaviour towards green products (agreement scale),Neutral,16,16
+T4.24,26,Attitude,Purchase behaviour towards green products (agreement scale),Disagree,5,5
+T4.24,26,Attitude,Purchase behaviour towards green products (agreement scale),Strongly disagree,2,2
+T4.25,25,Attitude,Green products will reduce pollution,Absolutely,48,48
+T4.25,25,Attitude,Green products will reduce pollution,Possibly,39,39
+T4.25,25,Attitude,Green products will reduce pollution,Not really,13,13
+T4.26,27,Attitude,Consumer preference for green products (frequency scale),Always,27,27
+T4.26,27,Attitude,Consumer preference for green products (frequency scale),Very often,37,37
+T4.26,27,Attitude,Consumer preference for green products (frequency scale),Sometimes,25,25
+T4.26,27,Attitude,Consumer preference for green products (frequency scale),Rarely,6,6
+T4.26,27,Attitude,Consumer preference for green products (frequency scale),Never,5,5
